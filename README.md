@@ -1,6 +1,7 @@
 # RedisProxy
 ## use 
 ```php
+aaaaa
 
 $redis = \RedisProxy\RedisConnector::getInstance();
 /********************string*************************/
